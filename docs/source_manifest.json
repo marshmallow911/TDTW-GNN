@@ -1,0 +1,14 @@
+{
+  "description": "SHA-256 of original source files before copying; modified release copies are described in docs/PREPARATION.md.",
+  "original_files": {
+    "Tree_gnn_smalltest_2.py": "bf5b6d43735aa9cbd4fb2b6d68654272b059044afd290ef998231a5b9b4c4773",
+    "Tree_final_time_mptt.py": "105921519d5ad9c62bf5998f90ca2d47d08f8aeac963364c105c4b555b30c83c",
+    "flow.py": "bf6aa1716152208ca3a1ebf9e027e65ccba36579c84f23f39c6a8bf215d214db",
+    "ETH_data_loader.py": "fa0b09466d65b4169521d8bc56e6810434b438f6af63039fe0fc997c6f50b102",
+    "AML_data_loader.py": "69c0aac495506360ce59cbaaad81a66f0c60ce44e5c89e039131413ee3b85459",
+    "modules/msg_func.py": "12ea4a8359153447a2d930e39d4c640c165032fb68501f94ccffcf3ca6b42eea",
+    "modules/msg_agg.py": "0bad38a5612c07b4be45f7abd4dbdbfdc5c560beb405f34d4e22496a18817792",
+    "nodeproppred/evaluate.py": "e6b2646bedfa1e5fa68e5349144ff6e4dcd9649397cea8c1b0ac75914def952a",
+    "LICENSE": "24d69467ed699619c319a1de89377685ac519587c77b1d256734eb2f26b4d8d0"
+  }
+}
